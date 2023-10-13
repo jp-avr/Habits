@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-O Habits é um programa gratuito para fazer um track do seu dia a dia. <br/>
+O Habits é um programa gratuito para fazer um track do seu dia a dia. A aplicação foi baseada no Habits da Rockseat, porém adaptada para Laravel e PHP <br/>
 </p>
 
 <p align="center">
@@ -27,6 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- Laravel
+- PHP
+- MySQL
 - Git e Github
 - Figma
 
